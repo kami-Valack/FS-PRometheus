@@ -1,3 +1,4 @@
+esta versao e apenas para usar com linux! 
 Principais Melhorias e Novas Funcionalidades:
 Monitoramento Avançado com Watchdog
 
