@@ -58,7 +58,7 @@ Resumo das verificações realizadas
 
 Suporte Multiplataforma
 
-Funciona tanto em Windows quanto Unix/Linux
+Funciona tanto em  Unix como Linux
 
 Adapta-se às particularidades de cada sistema
 
